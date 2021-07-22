@@ -1,0 +1,6 @@
+Note 1:  C++
+Note 2:  Python
+Note 3:  C
+Note 4:  Java
+Note 5:  PHP
+Note 6:  .NET
